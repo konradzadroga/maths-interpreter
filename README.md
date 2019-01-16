@@ -1,7 +1,7 @@
 # maths-interpreter
 Maths interpreter written in Python using regular expressions.
 
-With this maths interpreter written in Python you can:
+With this maths interpreter you can:
 - add numbers,
 - subtract numbers,
 - multiply numbers,
