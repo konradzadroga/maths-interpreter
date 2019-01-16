@@ -6,4 +6,4 @@ With this maths interpreter you can:
 - subtract numbers,
 - multiply numbers,
 - perform add, subtract and multiply operations on math expressions put in brackets.
-Just run app and type math expression, for example "(5-5*2-(-1))*(3-5)".
+Just run app and type math expression, for example "(5-5)-2-(-1))+(3-5)".
